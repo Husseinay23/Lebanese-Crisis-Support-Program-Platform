@@ -116,7 +116,7 @@ The platform connects people in need with resources, donations, and support serv
 ---
 
 ## 📁 Project Structure (high level)
-
+``` 
 Backend/
 ├── manage.py
 ├── Crisis/ # Django project settings
@@ -130,7 +130,7 @@ Front-end/
 ├── package.json
 ├── vite.config.js
 ├── node_modules/
-
+``` 
 
 
 
